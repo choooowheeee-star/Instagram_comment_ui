@@ -6,6 +6,10 @@
 // @author       Namtan
 // @match        https://www.instagram.com/*
 // @grant        none
+// @name         Instagram Auto Commenter
+// ...
+// @updateURL   https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/instagram-commenter.user.js
+// @downloadURL https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/instagram-commenter.user.js
 // ==/UserScript==
 
 (function () {
